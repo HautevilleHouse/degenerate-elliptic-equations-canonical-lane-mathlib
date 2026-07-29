@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DegenerateEllipticEquationsCanonicalLaneLean
+
+-- This module is the root of the DegenerateEllipticEquationsCanonicalLaneLean Lean proof package.
+
+end DegenerateEllipticEquationsCanonicalLaneLean
+end HautevilleHouse
